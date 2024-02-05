@@ -17,7 +17,7 @@ Installation
 To install the package, follow these steps:
 
 Clone the repository or download the source code.
-    git clone https://github.com/lawrence/server-info.git
+    git clone https://github.com/lawrencekm/server-info.git
     
 Install dependencies using Composer.
     composer install
@@ -50,7 +50,6 @@ To run tests using PHPUnit, follow these steps:
 
 Ensure PHPUnit is installed as a development dependency.
     composer install --dev
-
 Run PHPUnit tests.
     ./vendor/bin/phpunit tests
 
@@ -81,9 +80,3 @@ Run Via Command Line
 You can also run the application via the command line:
 
 php index.php
-
-
-Author
-Lawrence Njenga
-Contact
-For any inquiries or assistance, contact Lawrence Njenga at lawrencekm04@gmail.com.

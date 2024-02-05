@@ -1,5 +1,5 @@
 {
-    "name": "lawrence/server-info",
+    "name": "lawrencekm/server-info",
     "description": "A package to retrieve server information",
     "type": "library",
     "autoload": {
