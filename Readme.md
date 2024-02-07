@@ -41,7 +41,6 @@ Initialize the ServerInfo class in your PHP code.
 
 
     // Render HTML tables
-    // ... (Refer to previous code provided for rendering HTML tables)
 
 
 Testing
