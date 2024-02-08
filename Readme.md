@@ -1,6 +1,6 @@
 ### Server Info Package
 --------------------------
-A PHP package for retrieving Server information and System services details for monitoring purposes
+A PHP package for retrieving Server information and System services details for monitoring purposes.
 
 
 Installation
