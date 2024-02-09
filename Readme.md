@@ -4,7 +4,7 @@ A PHP package for retrieving Server information and System services details for 
 
 
 Installation
--------------
+------------
 To install the package in your PHP project:
 ```
     composer require lawrencekm/server-info
